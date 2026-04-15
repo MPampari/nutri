@@ -4,7 +4,7 @@
     "strict": true,
     "target": "es2017",
     "module": "commonjs",
-	"moduleResolution": "bundler",
+	"moduleResolution": "node",
     "jsx": "react-jsx",
     "outDir": "dist",
     "rootDir": "src",
