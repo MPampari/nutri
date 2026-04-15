@@ -51,7 +51,7 @@
     "lib": "lib"
   },
   "engines": {
-  "node": ">=18.0.0"  // tells Railway which Node version to use
+  "node": ">=18.0.0"
   },
   "keywords": [],
   "author": "",
